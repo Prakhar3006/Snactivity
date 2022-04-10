@@ -2,7 +2,7 @@ Kindly follow the following instructions:
 NOTE:Internet connection is mandatory for the program to run
 
 1.Before executing the code,kindly make these changes on the program for it to run on your system:
-	i)Lines 612,650&652:Change the passwd to your current database password i.eMySQl password.
+	i)Lines 621, 662 & 664:Change the passwd to your current database password i.eMySQl password.
 
 #Ordering and Selection:
 
